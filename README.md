@@ -1,3 +1,5 @@
 # MapsNGG
 
-Todo e qualquer direito desses arquivos pertencem a :  Guilherme Binelli e José Cardoso
+RESOLUÇÃO:
+2048x1273
+tile size 512
